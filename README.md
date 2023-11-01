@@ -133,7 +133,7 @@ Below is a mapping of the colors that are used in the Figma to their color token
 |Gray 01|interactive.inactiveCodeBorder (☀️)<br>list.inactiveSelectionBackground|
 |Gray 02|button.secondaryBackground (☀️)|
 
-# Contributing
+# Contributing to this project 
 
 If you'd like to contribute components, please create a PR with a link to your Figma file that has the proposed the components. Please re-use the same naming convention found in the rest of the file. Depending on the
 
